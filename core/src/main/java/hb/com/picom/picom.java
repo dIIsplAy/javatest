@@ -18,6 +18,7 @@ public class picom {
 	System.out.println("basepath=" + aBasePath);
 		
 		
+	
 	}
 	public static void main(String[] args) throws Exception {
 		Connection connection = DriverManager.getConnection("jdbc:mysql://localhost/test"+"user:root&password=");
